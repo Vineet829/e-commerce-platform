@@ -24,6 +24,10 @@ The `CardPage` component displays detailed information about a selected sneaker,
 - Uses `AmountBtn` to adjust the quantity of the product.
 - "Add to Cart" button dispatches the `addItem` action to the Redux store.
 
+![alt text](https://github.com/Vineet829/e-commerce-platform/blob/main/images/sneak4.png)
+
+![alt text](https://github.com/Vineet829/e-commerce-platform/blob/main/images/sneak11.png)
+
 ### Cart
 
 The `Cart` component displays the items added to the shopping cart. It allows users to view item details, total price, and proceed to checkout.
@@ -32,6 +36,12 @@ The `Cart` component displays the items added to the shopping cart. It allows us
 - Displays the list of items in the cart.
 - Computes and displays the total price of the items.
 - "Checkout" button clears the cart and shows a success message using toast.
+
+![alt text](https://github.com/Vineet829/e-commerce-platform/blob/main/images/sneak5.png)
+
+![alt text](https://github.com/Vineet829/e-commerce-platform/blob/main/images/sneak6.png)
+
+![alt text](https://github.com/Vineet829/e-commerce-platform/blob/main/images/sneak12.png)
 
 ### Header
 
@@ -48,7 +58,28 @@ The `Home` component serves as the landing page of the application, showcasing a
 **Key Features:**
 - Prominently displays a featured sneaker with title and description.
 - Link to navigate to the shop page.
+
 ![alt text](https://github.com/Vineet829/e-commerce-platform/blob/main/images/sneak1.png)
+
+![alt text](https://github.com/Vineet829/e-commerce-platform/blob/main/images/sneak8.png)
+
+![alt text](https://github.com/Vineet829/e-commerce-platform/blob/main/images/sneak9.png)
+
+### Product Listing
+
+The `ProductListing` component allows users to browse through a collection of sneakers.
+
+**Key Features:**
+- Displays a grid of sneaker products with images, titles, and prices.
+- Supports filtering and sorting based on various criteria such as price, brand, and popularity.
+- Includes pagination for easy navigation through the product catalog.
+
+![alt text](https://github.com/Vineet829/e-commerce-platform/blob/main/images/sneak2.png)
+
+![alt text](https://github.com/Vineet829/e-commerce-platform/blob/main/images/sneak3.png)
+
+![alt text](https://github.com/Vineet829/e-commerce-platform/blob/main/images/sneak10.png)
+
 ## PWA Functionality
 
 This application supports Progressive Web App (PWA) features, allowing users to install the app on their devices and use it offline.
@@ -56,6 +87,8 @@ This application supports Progressive Web App (PWA) features, allowing users to 
 **Key Features:**
 - **Offline Support:** The app caches resources for offline use.
 - **Installable:** Users can install the app on their home screen for quick access.
+
+![alt text](https://github.com/Vineet829/e-commerce-platform/blob/main/images/sneak7.png)
 
 ## Getting Started
 
@@ -68,12 +101,12 @@ This application supports Progressive Web App (PWA) features, allowing users to 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sneaker-ecommerce-platform.git
-cd sneaker-ecommerce-platform
+git clone https://github.com/vineet829/e-commerce-platform.git
+cd e-commerce-platform
 npm install
 npm start
 ```
-The application will be running on [http://localhost:3000](http://localhost:3000).
+The application will be running on [http://localhost:3000].
 
 ## Usage
 
