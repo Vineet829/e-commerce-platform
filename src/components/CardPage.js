@@ -8,6 +8,7 @@ import { ReactComponent as Arrow } from '../assets/arrow.svg';
 import { useDispatch } from 'react-redux';
 import { addItem } from '../redux/cartSlice';
 
+
 const CardPage = () => {
   const dispatch = useDispatch();
   const { title } = useParams();
