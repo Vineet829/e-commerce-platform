@@ -1,7 +1,5 @@
 # Sneaker E-commerce Platform
 
-Welcome to the Sneaker E-commerce Platform!
-
 ## Features
 
 - **Product Listing:** Browse through a collection of sneakers.
