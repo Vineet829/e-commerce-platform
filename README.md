@@ -1,6 +1,6 @@
 # Sneaker E-commerce Platform
 
-Welcome to the Sneaker E-commerce Platform! This project is a fully functional e-commerce web application built with React, Redux, and Tailwind CSS.
+Welcome to the Sneaker E-commerce Platform!
 
 ## Features
 
