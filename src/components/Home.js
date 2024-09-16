@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 
 const Home = () => {
   return (
+    
     <main className="p-12 bg-[#fef5e6]">
       <div className="home flex flex-col lg:flex-row justify-between items-center max-w-[1700px] mx-auto border-black border-4 p-8 bg-white rounded-md shadow-md">
         <div className="content w-full lg:w-1/2 p-4 lg:p-8">
